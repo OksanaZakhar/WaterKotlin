@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">WaterKotlin</string>
+    <string name="home">Головна</string>
+    <string name="history">Історія</string>
+    <string name="basket">Кошик</string>
+    <string name="stock">Акції</string>
+    <string name="menu">Більше</string>
+    <string name="goToMain">Домой</string>
+    <string name="categ1">Вода</string>
+    <string name="categ2">Аксесуари</string>
+    <string name="categ3">Кулери</string>
+
+    <string name="menu1">Профіль</string>
+    <string name="menu2">Поділитися</string>
+    <string name="menu3">Інформація</string>
+    <string name="menu4">Зв’яжіться з нами</string>
+    <string name="menu5">Оцініть нас</string>
+    <string name="menu6">Скарга директору</string>
+
+    <string name="basket_order">Оформити замовлення</string>
+
+
+    <string name="email">Email</string>
+    <string name="name">Ім\'я</string>
+    <string name="password">Пароль</string>
+    <string name="confirmPassword">Повторіть пароль</string>
+    <string name="singUp">Зареєструватися</string>
+    <string name="logIn">Увійти</string>
+    <string name="singOut">Вийти з аккаунту</string>
+    <string name="startPage">Головне меню</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_authentication">Authentication</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416549377433",
+    "project_id": "waterkotlin",
+    "storage_bucket": "waterkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416549377433:android:7ed74e65dab91715356f08",
+        "android_client_info": {
+          "package_name": "com.ksusha.vel.waterkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416549377433-av4m21k0bkrlkt9t9jdq9hvjvdtserbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ksusha.vel.waterkotlin",
+            "certificate_hash": "236a64eb3941f81ea1f7418d45142084dc93f72e"
+          }
+        },
+        {
+          "client_id": "416549377433-1gcarhvov57tae2is32vf8972j9183us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKFXjvVEn8n3IhVkSVmHgQBJIlsPwGpuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416549377433-1gcarhvov57tae2is32vf8972j9183us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

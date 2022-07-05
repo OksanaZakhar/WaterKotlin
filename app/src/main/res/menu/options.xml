@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/oneMenu"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="@string/menu1"/>
+
+        <item android:id="@+id/twoMenu"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="@string/menu2"/>
+
+        <item android:id="@+id/threeMenu"
+            android:icon="@drawable/ic_baseline_info_24"
+            android:title="@string/menu3"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/fourMenu"
+            android:icon="@drawable/ic_baseline_send_24"
+            android:title="@string/menu4"/>
+
+        <item android:id="@+id/fiveMenu"
+            android:icon="@drawable/ic_baseline_star_24"
+            android:title="@string/menu5"/>
+
+        <item android:id="@+id/sixMenu"
+            android:icon="@drawable/ic_baseline_info_24"
+            android:title="@string/menu6"/>
+    </group>
+
+</menu>
